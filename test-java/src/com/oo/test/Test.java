@@ -5,6 +5,8 @@ public class Test {
 	public Test() {
 		// TODO Auto-generated constructor stub
 		System.out.println("hello");
+		System.out.println("hello");
+		
 	}
 	public String getTest(){
 		return this.test;
